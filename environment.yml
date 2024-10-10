@@ -1,0 +1,13 @@
+name: pytorch_env
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pytorch=1.10.2
+  - torchvision
+  - matplotlib
+  - pandas
+  - opencv
+  - cudatoolkit=11.3
+  - cudnn
