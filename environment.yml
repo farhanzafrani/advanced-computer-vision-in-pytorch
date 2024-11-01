@@ -11,3 +11,6 @@ dependencies:
   - opencv
   - cudatoolkit=11.3
   - cudnn
+  - pip
+  - pip:
+      - dvc
